@@ -1,0 +1,12 @@
+functionsForUSB.c:36:6:Send_Uart	16	static
+functionsForUSB.c:43:6:Mount_USB	8	static
+functionsForUSB.c:50:6:Unmount_USB	8	static
+functionsForUSB.c:58:9:Scan_USB	88	static
+functionsForUSB.c:101:9:Format_USB	64	static
+functionsForUSB.c:135:9:Write_File	40	static
+functionsForUSB.c:199:9:Read_File	48	static
+functionsForUSB.c:271:9:Create_File	40	static
+functionsForUSB.c:320:9:Update_File	48	static
+functionsForUSB.c:389:9:Remove_File	32	static
+functionsForUSB.c:424:9:Create_Dir	24	static
+functionsForUSB.c:444:6:Check_USB_Details	16	static
